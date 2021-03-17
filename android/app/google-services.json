@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "993111868057",
+    "project_id": "project-flutter-d8641",
+    "storage_bucket": "project-flutter-d8641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993111868057:android:7cd8cc2f1bfafdbcfaee08",
+        "android_client_info": {
+          "package_name": "com.satella.daritani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993111868057-ujvubrtcap3plq98b849mdn1olui0c80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZCPsfkYkZV0SJjIXiF8JvNwRHZeo79Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993111868057-ujvubrtcap3plq98b849mdn1olui0c80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993111868057:android:4acea574bfd7b29dfaee08",
+        "android_client_info": {
+          "package_name": "com.satella.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993111868057-ujvubrtcap3plq98b849mdn1olui0c80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZCPsfkYkZV0SJjIXiF8JvNwRHZeo79Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993111868057-ujvubrtcap3plq98b849mdn1olui0c80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
